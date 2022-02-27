@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain considerations and cautions agreed upon by the ministers of London, Westminster, and within the lines of communication, June 19. 1646. According to which they resolve to put the presbyteriall government in execution, upon the ordinances of Parliament heretofore published. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78463</idno>
+            <idno type="STC">Wing C1690</idno>
+            <idno type="STC">Thomason E341_11</idno>
+            <idno type="STC">ESTC R5561</idno>
+            <idno type="EEBO-CITATION">99872863</idno>
+            <idno type="PROQUEST">99872863</idno>
+            <idno type="VID">159754</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159754)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E341[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain considerations and cautions agreed upon by the ministers of London, Westminster, and within the lines of communication, June 19. 1646. According to which they resolve to put the presbyteriall government in execution, upon the ordinances of Parliament heretofore published. Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. and E.M. for Ralph Smith at the sign of the Bible in Cornhill.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 22th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159754:1" rendition="simple:additions"/>
+            <p>CERTAIN CONSIDERATIONS AND CAUTIONS Agreed upon by the Miniſters of <hi>London, Weſtminſter,</hi> and within the <hi>Lines of Com<g ref="char:EOLhyphen"/>munication,</hi> June 19. 1646.</p>
+            <p>According to which they reſolve to put the <hi>Presbyteriall Government</hi> in execution, upon the Ordinances of PARLIA<g ref="char:EOLhyphen"/>MENT heretofore publiſhed.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. R.</hi> and <hi>E. M.</hi> for <hi>Ralph Smith</hi> at the ſign of the Bible in Cornhill. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159754:2"/>
+            <pb n="3" facs="tcp:159754:2"/>
+            <head>Certain Conſiderations and Cautions agreed upon by the Miniſters of <hi>London, Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and within the <hi>Lines of Communicati<g ref="char:EOLhyphen"/>on,</hi> June <hi>19. 1646.</hi> according to which they reſolve to put the <hi>Presbyteriall Go<g ref="char:EOLhyphen"/>vernment</hi> in execution, upon the Ordinances of <hi>PARLIAMENT</hi> heretofore publiſhed.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E Miniſters of Chriſt, re<g ref="char:EOLhyphen"/>ſiding within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and <hi>Lines</hi> of <hi>Communicati<g ref="char:EOLhyphen"/>on,</hi> having ſeen and read an Order of the Honorable Houſe of COM<g ref="char:EOLhyphen"/>MONS Aſſembled in PARLIAMENT,
+<pb n="4" facs="tcp:159754:3"/>bearing date <hi>June</hi> 9. 1646. Requiring and Injoyning all the Miniſters of the Province of <hi>London</hi> forthwith to put in execution the Ordinances concerning Church Government, Hold it requiſite humbly and faithfully as in the ſight of God to ſhew our judgements and reſo<g ref="char:EOLhyphen"/>lutions about this weighty matter, for the clearing of our Integrities, and pre<g ref="char:EOLhyphen"/>ſerving our Conſciences void of offence both towards God and towards man.</p>
+            <p>We have ſeriouſly pondered the pre<g ref="char:EOLhyphen"/>ſent ſtate of things; and find our ſelves, whether we act as is required, or act not, to be in a very great ſtreight. On the one hand, Prelacy, being juſtly pulled down, and the Church miſerably groaning un<g ref="char:EOLhyphen"/>der Diſorder &amp; Confuſion, many things cry aloud upon us in our places to put Church Government into actuall execu<g ref="char:EOLhyphen"/>tion;
+<pb n="5" facs="tcp:159754:3"/>The Glory of God, the edification of his Church, the Duty of our Functi<g ref="char:EOLhyphen"/>on, the Ingagement of our ſolemn Cove<g ref="char:EOLhyphen"/>nant with God, the command of the Ci<g ref="char:EOLhyphen"/>vil Magiſtrate (which ſo far as we can with a good Conſcience, we are reſolved and hold it our Duty to obey,) and the preſent unſpeakable miſeries of the Church by wofull Diviſions, Blaſphe<g ref="char:EOLhyphen"/>mies, Hereſies, abominable looſeneſſe, Libertiniſme, and Atheiſme, and the ſpirituall Ruine of many Congregations through falſe Teachers, or want of faith<g ref="char:EOLhyphen"/>full Paſtors for lack of Ordination. On the other hand, upon conſideration of all the Ordinances of PARLIAMENT about Church Government, wee finde ma<g ref="char:EOLhyphen"/>ny neceſſary things not yet eſtabliſhed, and ſome things wherein our Conſcien<g ref="char:EOLhyphen"/>ces are not ſo fully ſatisfied: And there<g ref="char:EOLhyphen"/>fore
+<pb n="6" facs="tcp:159754:4"/>in our beginning to act, we cannot but foreſee, how likely we are to be ſini<g ref="char:EOLhyphen"/>ſterly interpreted by many, who are prone to miſconſtrue all our actions of this nature. We thereupon hold it neceſ<g ref="char:EOLhyphen"/>ſary to expreſſe upon what Grounds we may proceed, to act upon the Ordinan<g ref="char:EOLhyphen"/>ces already eſtabliſhed by Authority.</p>
+            <p>Although we conceive the power of Church cenſures, and in particular the keeping off Ignorant and Scandalous perſons from the Sacrament of the Lords Supper, to be in Church Officers by the Will and Apointment of Jeſus Chriſt, and from him they receive their Office and Authority: Yet we acknowledge, it belongs to the Magiſtrate to have his Conſcience ſatisfied in the truth of that Government of the Church which he will ſet up by his Authority, from
+<pb n="7" facs="tcp:159754:4"/>whom the Church Officers do receive Authority of the publike exerciſe of their Offices in his Do<g ref="char:EOLhyphen"/>minions. And in caſe the Magiſtrate be not ſo ful<g ref="char:EOLhyphen"/>ly informed, as to ſet up a right and perfect Rule in every particular, the Church officers may yet act under that Rule; Provided, that they do not ſubſcribe to, or otherwiſe acknowledge that Rule to be intire and right in all points.</p>
+            <p>And therefore for theſe particular Ordinan<g ref="char:EOLhyphen"/>ces, although we humbly conceive that they do not hold forth a compleat Rule, nor are in all points ſatisfactory to our Conſciences: Yet be<g ref="char:EOLhyphen"/>cauſe we find many things eſtabliſhed in them, agreeable to the Word of God (for which we deſire heartily to bleſſe God; and to be thank<g ref="char:EOLhyphen"/>full to the Honorable Houſes,) Proviſion being made for inabling the Elderſhips by their Au<g ref="char:EOLhyphen"/>thority, to keep away from the Lords Supper all Ignorant perſons, and many Scandalous per<g ref="char:EOLhyphen"/>ſons, with a Declaration of their Reſolution, that all Notorious and Scandalous Offenders ſhall be kept from the Sacrament, and that there ſhall be a further addition to the Scandalous of<g ref="char:EOLhyphen"/>fences formerly enumerated; We conceive it is
+<pb n="8" facs="tcp:159754:5"/>our duty to begin to act in reference to Church Government by Congregationall, Claſſicall, Provinciall, and Nationall Aſſemblies; Reſol<g ref="char:EOLhyphen"/>ving by the Grace of God to walk in al things ac<g ref="char:EOLhyphen"/>cording to the Rule of the Word, and according to theſe Ordinances ſo far as we conceive them correſpondent to it; and to be accountable to the Magiſtrate whenſoever he ſhal call us there<g ref="char:EOLhyphen"/>unto; Hoping ſo to carry our ſelves, as not only to injoy his concurrence with us on al occaſions; but alſo that he will ſupply what is lacking to make the Government intire, and likewiſe make alterations in all things that ſhall appear to be a<g ref="char:EOLhyphen"/>miſſe. And in thus doing, we truſt we ſhall not greive the ſpirits of the truly godly either at home or abroad; nor give any juſt occaſion to them that are contrary minded, to blame our proceedings.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
